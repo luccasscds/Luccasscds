@@ -1,4 +1,4 @@
-### Óla pessoal 👋
+### Olá pessoal 👋
 
 Me chamo Lucas Silva, sou um desevolvedor front-end, eu era uma pessoa muito indeciso em escolher o que eu queria ser ,
 porém, comecei a gosta da área de programação aos 16 anos. Entretanto, infelizmente parei por um tempo
