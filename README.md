@@ -1,8 +1,8 @@
-# Olá pessoal 👋
+# Hello 👋 I'm Lucas Silva
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/programadorlucas/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilva21/)](https://www.linkedin.com/in/lucassilva21/)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-6633cc?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/luccasscds)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=&logo=instagram&logoColor=white)](https://www.instagram.com/programadorlucas/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucassilva21/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/luccasscds)
 
 Me chamo Lucas Silva e eu sou um front-end developer.
 
