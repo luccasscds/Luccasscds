@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on getting better at life
 - 🌱 I’m currently learning to be a better developer
 - 📫 How to reach me : [**My LinkedIn**](https://www.linkedin.com/in/lucassilva21)
-- ⚡ Fun fact : **undefined**
 <br/>
 <b>My tools: <b/>
 <p>
