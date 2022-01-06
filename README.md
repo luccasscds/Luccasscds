@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on getting better at life
 - 🌱 I’m currently learning to be a better developer
-- 📫 How to reach me : [**email**](https://www.instagram.com/programadorlucas/)
+- 📫 How to reach me : *lucassilvacds7@gmail.com*
 <br/>
 <b>My tools: <b/>
 <p>
