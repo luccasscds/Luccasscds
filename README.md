@@ -1,14 +1,14 @@
 # Hello, I'm Lucas Silva <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### A Web Developer
-
-![](https://komarev.com/ghpvc/?username=luccasscds&color=blueviolet)
+### A Web Developer 
+![](https://komarev.com/ghpvc/?username=luccasscds&color=blueviolet&style=flat&label=Total+de+visitantes)
 
 - 🔭 I’m currently working on getting better at life
 - 🌱 I’m currently learning to be a better developer
 - 📫 How to reach me : *lucassilvacds7@gmail.com*
 <br/>
-<b>My tools: <b/>
+
+<h2><b>My tools: <b/></h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,12 +18,17 @@
 <p/>
 
 <br/>
+ 
+<h2><b>GitHub Analytics</b></h2>
   
-![Luccass's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasscds&theme=radical&show_icons=true)
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luccasscds&show_icons=true&theme=vision-friendly-dark" alt="luccasscds's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasscds&layout=compact&theme=vision-friendly-dark" alt="luccasscds's most languages"/>
+</p>
 
 <br/>
 
-<b>Social Network: <b/>
+<h2><b>Social Network: <b/></h2>
 <p>
   
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucassilva21/)
