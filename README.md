@@ -1,9 +1,9 @@
-# Hello, I'm Lucas Silva <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Lucas Silva <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 ### A Web Developer 
 ![](https://komarev.com/ghpvc/?username=luccasscds&color=blueviolet&style=flat&label=Total+de+visitantes)
 
-- 🔭 I’m currently working on getting better at life
+- 🔭 I’m currently working at [UniCorp](https://br.linkedin.com/company/unicorp-inform%C3%A1tica-industrial)
 - 🌱 I’m currently learning to be a better developer
 - 📫 How to reach me : *lucassilvacds7@gmail.com*
 <br/>
