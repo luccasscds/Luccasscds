@@ -3,7 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=luccasscds&color=blueviolet&style=flat&label=Total+de+visitantes)
 
 - 🔭 I’m currently working at [UniCorp](https://br.linkedin.com/company/unicorp-inform%C3%A1tica-industrial)
+  
 - 🌱 I’m currently learning to be a better developer
+  
 - 📫 How to reach me : *lucassilvacds7@gmail.com*
 <br/>
 
