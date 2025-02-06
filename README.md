@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning to be a better developer
   
-- 📫 How to reach me : *lucassilvacds7@gmail.com*
+- ⚡ Fun fact Oneye 😜
 <br/>
 
 ## Contact
