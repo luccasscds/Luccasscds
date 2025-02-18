@@ -11,7 +11,8 @@
 
 ## Contact
 <p>
-  
+
+  [![YouTube Badge](https://img.shields.io/badge/youtube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@luccassDev)
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucassilva21/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=&logo=instagram&logoColor=white)](https://www.instagram.com/programadorlucas/)
   [![Codepen Badge](https://img.shields.io/badge/-Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/luccasscds)
